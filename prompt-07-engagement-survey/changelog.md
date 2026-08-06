@@ -1,0 +1,1 @@
+v1→v2: Added a paraphrasing/anonymity constraint and a 'mixed/unclear' category after testing revealed near-verbatim quoting (re-identification risk in small teams) and forced sentiment labels on ambiguous text
