@@ -1,0 +1,1 @@
+v1→v2: Added explicit exclusion constraints after testing revealed the model inferring protected attributes and offering unsolicited recommendations. Strengthens compliance with responsible-AI use and keeps the human decision-maker in control.
