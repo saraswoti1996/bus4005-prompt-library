@@ -1,0 +1,1 @@
+v1→v2: Added an explicit 'do not alter clauses' instruction after testing showed the model paraphrasing legal wording unprompted. Critical for a document with contractual weight — reduces risk of unintentional legal errors.
