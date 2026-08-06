@@ -1,1 +1,0 @@
-Act as an organizational psychologist. Generate 8 structured behavioral interview questions for a Customer Service Team Leader role, each mapped to one of these competencies: conflict resolution, coaching and feedback, prioritization under pressure, stakeholder communication. For each question, provide one example of a strong answer indicator.

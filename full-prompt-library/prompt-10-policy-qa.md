@@ -1,1 +1,0 @@
-Using only the attached HR policy document, answer the employee's question: 'How many weeks of paid parental leave am I entitled to, and do I need to have worked here a minimum length of time to qualify?' If the answer is not explicitly covered in the document, say so clearly and direct the employee to contact HR directly rather than guessing.

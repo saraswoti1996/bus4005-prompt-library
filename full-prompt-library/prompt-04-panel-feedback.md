@@ -1,1 +1,0 @@
-You will receive raw notes from 3 interview panelists for one candidate. Consolidate them into a single structured summary with sections: Strengths, Areas of Concern, Competency Ratings (1-5) per competency, and Overall Recommendation (Proceed / Do Not Proceed / Undecided). Flag any direct disagreement between panelists rather than resolving it yourself.

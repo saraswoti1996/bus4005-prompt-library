@@ -1,1 +1,0 @@
-You are an onboarding coordinator. Create a 2-week onboarding schedule for a new Retail Store Manager hire starting 1 September 2026, including IT setup, WHS induction, team introductions, and a first 1:1 with their manager. Present as a day-by-day table

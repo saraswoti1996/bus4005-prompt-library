@@ -1,1 +1,0 @@
-Summarize this exit interview transcript into: primary reason for leaving, secondary contributing factors, and any risk flags (e.g. mentions of harassment, unsafe conditions, unresolved grievances) that require urgent HR follow-up. Flag risk items clearly at the top
