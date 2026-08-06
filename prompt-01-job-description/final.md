@@ -1,0 +1,1 @@
+You are a senior HR business partner. Draft a job description for a Retail Store Manager role in a mid-sized retail company of 150 employees. Include: role purpose (2 sentences), 5 key responsibilities, 5 essential requirements, and 3 desirable skills. Use inclusive, bias-free language and avoid gendered or age-coded terms.
